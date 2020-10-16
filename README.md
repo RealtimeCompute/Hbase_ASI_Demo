@@ -1,2 +1,2 @@
 # Hbase_ASI_Demo
-本demo用于在阿里云实时计算Flink版的全托管产品上，使用datastream作业（Flink1.11版本）读取阿里云datahub数据，计算后写入阿里云hbase。
+本demo用于在阿里云实时计算Flink版的全托管产品上，使用datastream作业读取阿里云datahub数据，计算后写入阿里云hbase。
